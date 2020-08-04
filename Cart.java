@@ -302,7 +302,7 @@ public class Cart extends JPanel{
 			g.setColor(new Color(204,0,0));
 			g.fillRect(620,770,260,50);
 			g.setColor(Color.WHITE);
-			g.setFont(new Font("Papyrus", Font.BOLD, 35));
+			g.setFont(new Font("Papyrus", Font.BOLD, 25));
 			g.drawString("CLEAR CART", 637, 805);
 			g.setColor(Color.BLACK);
 		}
